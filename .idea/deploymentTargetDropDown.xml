@@ -5,7 +5,13 @@
       <entry key="MainTestSuite">
         <State />
       </entry>
+      <entry key="RoomDatabaseTest">
+        <State />
+      </entry>
       <entry key="app">
+        <State />
+      </entry>
+      <entry key="insertRoomItem()">
         <State />
       </entry>
     </value>
